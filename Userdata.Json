@@ -5,7 +5,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-    {
+ {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
@@ -45,12 +45,6 @@
         "device_id": "7dd71bbedcdeb757",
         "key": "key203206",
         "expirydate": "04-09-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "7dd71736bbedcdeb757",
-        "key": "key909090",
-        "expirydate": "29-08-2026",
         "Allowoffline": false
     }
 ]
